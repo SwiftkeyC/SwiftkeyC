@@ -1,6 +1,6 @@
 # Swiftkey
 
-### 🧰 Languages and Tools
+### Languages and Tools:
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
